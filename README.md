@@ -4,7 +4,7 @@
 
 This notebook demonstrates quantization techniques for the LLaMA-7B language model. I implemented both basic Round-to-Nearest (RTN) and the more sophisticated GPTQ algorithm to reduce model memory requirements from 16-bit to 4-bit precision while maintaining reasonable performance.
 
-The work shows how to make large language models more accessible by cutting memory usage by roughly 75%.
+The work shows how to make large language models smaller by cutting memory usage by roughly 75%.
 
 ## Table of Contents
 
