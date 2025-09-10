@@ -25,7 +25,7 @@ Rather than just implementing naive quantization, I focused on GPTQ - a more adv
 
 The notebook covers three main approaches:
 
-**Basic Quantization Framework**
+**Basic Quantization**
 - Row-wise quantization with scale/zero parameters
 - Efficient conversion between FP16 and quantized representations
 - Custom QuantizedLinear layer that works as a drop-in replacement
