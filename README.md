@@ -1,4 +1,4 @@
-# LLaMA Model Quantization
+# LLaMA Quantization
 
 ## Overview
 
